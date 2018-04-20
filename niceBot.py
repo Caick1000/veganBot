@@ -4,7 +4,7 @@ bot = praw.Reddit(user_agent='niceBot v0.1',
                   client_id='5B7ysU3JrEDvOA',
                   client_secret='mp6ObGVFCb0_1JHhPvsI_WntLlI',
                   username='randomBots-',
-                  password='Jogos10@50')
+                  password='')
 
 subreddit = bot.subreddit('all')
 
